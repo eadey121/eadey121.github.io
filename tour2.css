@@ -32,6 +32,8 @@ h1 {
 #pc2, #pop, #mod, #five, #seven {
 	display: inline-block;
 	align-content: center;
+	font-size: 60px;
+	font-family: trebuchet;
 	
 }
 
@@ -186,6 +188,10 @@ p {
 	display: none;
 }
 
+
+#bday2, #special2, #hol2 {
+	display: none;
+}
 /*
 #ttotal,  {
 font-size: 24px;
