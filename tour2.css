@@ -1,0 +1,196 @@
+
+.well {
+	text-align: center;
+}
+
+
+.highlight{
+	font-weight: bold;
+}
+
+span {
+	padding: 20px;
+	position: relative;
+	left: 40px;
+}
+
+h1 {
+	position: relative;
+	left: 40px;
+}
+/*
+#CDis, #combois{
+    
+
+}*/
+
+#six {
+	position: relative;
+	left: 240px;
+}
+
+#pc2, #pop, #mod, #five, #seven {
+	display: inline-block;
+	align-content: center;
+	
+}
+
+#collections {
+	display: inline-block;
+	position: relative;
+	top: -40px;
+}
+
+#CDis, #touris, #combois {
+    
+    font-style: italic;
+	font-size: 20px;
+	font-weight: bold;
+	color: #9f7652;
+	color: #8d6645;
+	height: 50px;
+	width: 450px;
+	display: none;
+
+}
+
+
+#result, #result2{
+    
+    font-style: italic;
+	font-size: 20px;
+	font-weight: bold;
+	color: #9f7652;
+	font-family: Tw Cen MT;
+}
+
+
+
+footer{ 
+	font-family: Tw Cen MT;
+	font-size: 22px;
+	font-weight: bold;
+	font-style: italic;
+	width: 100%px;
+	color: #774e08;
+	text-align: center;
+	}
+
+
+body{
+	background-color: #20b2aa;
+	
+}	
+.hey{
+	font-family: Calibri;
+	font-size: 48px;
+	width: 250px;
+	color: #774e08;
+	text-align: center;
+	display: inline-text block;
+}
+
+#letters, h1, h2 {
+	color: #774e08;
+	font-weight: bold;
+	font-family: Tw Cen MT; 
+}
+
+h4{
+	font-style: italic;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#warning{
+	font-style: italic;
+	font-size: 20px;
+	font-weight: bold;
+	color: red;
+	display: none;
+
+}
+#gonext{
+	font-style: italic;
+	font-size: 20px;
+	font-weight: bold;
+	color: red;
+	display: none;
+
+}
+
+#touris {
+	font-style: italic;
+	font-size: 20px;
+	font-weight: bold;
+	color: #9f7652;
+	color: #8d6645;
+	height: 50px;
+	width: 450px;
+	display: none;
+
+}
+
+
+.model, .trio {
+border width: 2px blue;
+}
+
+.col align-self-center {
+		color: blue;
+
+
+}
+
+
+
+
+button{
+	font-style: italic;
+	font-size: 20px;
+	font-weight: bold;
+	border-radius: 50px;
+	background-color: #bdb76b;
+	border: solid 3px #ffd700;
+	color: #774e08;
+
+}
+
+@media screen and (max-width: 760px) {
+  body {
+    background-color: #ffffff;
+  }
+  span {
+    width: 60%; 
+  }
+
+p {
+  width: 15%;
+  }
+
+ div {
+  width: 50%;
+  }
+ 
+}
+
+.thanx {
+	font-size: 24px;
+	font-weight: bold;
+	color: #105955;
+	font-family: Tw Cen MT;
+	
+}
+
+#orange, #turquoise, #plum {
+	display: none;
+}
+
+/*
+#ttotal,  {
+font-size: 24px;
+	font-weight: bold;
+	color: #105955;
+	font-family: Tw Cen MT;
+
+}*/
